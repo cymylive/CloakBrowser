@@ -1,4 +1,8 @@
 <p align="center">
+  <b>English</b> | <a href="README_zh.md">中文</a>
+</p>
+
+<p align="center">
 <img src="https://i.imgur.com/cqkp6fG.png" width="500" alt="CloakBrowser">
 </p>
 
